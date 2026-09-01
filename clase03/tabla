@@ -1,0 +1,36 @@
+<table>
+  <thead>
+    <tr>
+      <th>nombre</th>
+      <th>Apellido</th>
+      <th>Edad</th>
+      <th>direccion</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Daniel</td>
+      <td>Giraldo</td>
+      <td>16</td>
+      <td>calle 54</td>
+    </tr>
+    <tr>
+      <td>Jeronimo</td>
+      <td>Jimenez</td>
+      <td>17</td>
+      <td>calle 36b</td>
+    </tr>
+    <tr>
+      <td>Jeronimo</td>
+      <td>Reyes</td>
+      <td>15</td>
+      <td>calle 72</td> 
+    </tr>
+    <tr> 
+      <td>Dilan</td>
+      <td>Arboleda</td>
+      <td>16</td>
+      <td>calle 43</td>   
+    </tr>
+  </tbody>
+</table>
