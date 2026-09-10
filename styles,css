@@ -1,25 +1,22 @@
-<style>
-    body {
-      background: rgb(16, 204, 47);
-      color: lab(74.52% -71.75 60.13);
-      font-family: Arial, sans-serif;
-      padding: 20px;
-    }
+body {
+  background: #ccd3df;
+  color: #b80101;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
 
-    h1 {
-      color: hsl(167, 71%, 46%);
-    }
+#app-titulo {
+  color: #2f9bac;
+}
 
-    h2 {
-      color: #0fd3c9;
-    }
+h2 {
+  color: #9c001a;
+}
 
-    .tarea {
-      background: hwb(0 12% 29%);
-      border: 1px solid hsl(216, 71%, 41%);
-      border-radius: 8px;
-      padding: 10px 14px;
-      margin-bottom: 10px;
-    }
-  </style>
-</head>
+.tarea {
+  background: #79869b;
+  border: 1px solid #0050c7;
+  border-radius: 8px;
+  padding: 10px 14px;
+  margin-bottom: 10px;
+}
