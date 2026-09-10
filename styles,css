@@ -1,0 +1,25 @@
+<style>
+    body {
+      background: rgb(16, 204, 47);
+      color: lab(74.52% -71.75 60.13);
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      color: hsl(167, 71%, 46%);
+    }
+
+    h2 {
+      color: #0fd3c9;
+    }
+
+    .tarea {
+      background: hwb(0 12% 29%);
+      border: 1px solid hsl(216, 71%, 41%);
+      border-radius: 8px;
+      padding: 10px 14px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
